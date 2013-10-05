@@ -16,7 +16,7 @@ Author URI: http://seanvoss.com/nameyourprice
  * License : http://seanvoss.com/wooprice/legal
  */
 
-function name_price_wc_init() 
+function sv_name_price_wc_init() 
 {
     /**
      * Check if WooCommerce is active

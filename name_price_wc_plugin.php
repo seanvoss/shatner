@@ -1,5 +1,5 @@
 <?
-class WC_Donation extends WC_Cart
+class SV_WC_Donation extends WC_Cart
 {
 
     public function __construct()
@@ -90,4 +90,4 @@ class WC_Donation extends WC_Cart
     }
 
 }
-new WC_Donation();
+new SV_WC_Donation();
