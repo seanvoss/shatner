@@ -26,4 +26,4 @@ function sv_name_price_wc_init()
     }
 }
 
-add_action('plugins_loaded', 'name_price_wc_init', 10);
+add_action('plugins_loaded', 'sv_name_price_wc_init', 10);
