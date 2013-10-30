@@ -1,19 +1,19 @@
 <?php
 /*
 Plugin Name: WooCommerce - Name your own price
-Plugin URI: http://seanvoss.com/wooprice
+Plugin URI: http://blog.seanvoss.com/product/shatner
 Description: Allows users to set their own price (can also be used for donations) 
-Version: 0.1
+Version: 0.5
 Author: Sean Voss
-Author URI: http://seanvoss.com/nameyourprice
+Author URI: http://seanvoss.com/
 
 */
 
 /*
  * Title   : WooCommerce Name your own price
  * Author  : Sean Voss
- * Url     : http://seanvoss.com/wooprice
- * License : http://seanvoss.com/wooprice/legal
+ * Url     : http://blog.seanvoss.com/product/shatner
+ * License : http://github.com/seanvoss/shatner/LICENSE
  */
 
 function sv_name_price_wc_init() 
